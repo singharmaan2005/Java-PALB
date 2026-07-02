@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/singharmaan2005/Leetcode-/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
