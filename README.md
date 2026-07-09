@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/singharmaan2005/Leetcode-/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/singharmaan2005/Leetcode-/tree/master/0342-power-of-four) |
+| [2469-convert-the-temperature](https://github.com/singharmaan2005/Leetcode-/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
