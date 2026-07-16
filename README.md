@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/singharmaan2005/Leetcode-/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/singharmaan2005/Leetcode-/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
 |  |
 | ------- |
