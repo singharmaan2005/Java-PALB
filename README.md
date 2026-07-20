@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/singharmaan2005/Leetcode-/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/singharmaan2005/Leetcode-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
