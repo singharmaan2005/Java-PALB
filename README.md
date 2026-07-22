@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singharmaan2005/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/singharmaan2005/Leetcode-/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singharmaan2005/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/singharmaan2005/Leetcode-/tree/master/0152-maximum-product-subarray) |
 ## Counting Sort
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singharmaan2005/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0796-rotate-string](https://github.com/singharmaan2005/Leetcode-/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
