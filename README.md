@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/singharmaan2005/Leetcode-/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/singharmaan2005/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singharmaan2005/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0796-rotate-string](https://github.com/singharmaan2005/Leetcode-/tree/master/0796-rotate-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/singharmaan2005/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## String Matching
 |  |
 | ------- |
