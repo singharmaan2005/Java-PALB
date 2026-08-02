@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharmaan2005/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/singharmaan2005/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharmaan2005/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singharmaan2005/Leetcode-/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharmaan2005/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
