@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/singharmaan2005/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singharmaan2005/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/singharmaan2005/Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/singharmaan2005/Leetcode-/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/singharmaan2005/Leetcode-/tree/master/0342-power-of-four) |
 | [2469-convert-the-temperature](https://github.com/singharmaan2005/Leetcode-/tree/master/2469-convert-the-temperature) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/singharmaan2005/Leetcode-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singharmaan2005/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/singharmaan2005/Leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
