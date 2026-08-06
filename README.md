@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/singharmaan2005/Leetcode-/tree/master/0342-power-of-four) |
 | [2469-convert-the-temperature](https://github.com/singharmaan2005/Leetcode-/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharmaan2005/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
