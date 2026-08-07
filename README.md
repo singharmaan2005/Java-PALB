@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/singharmaan2005/Leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singharmaan2005/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/singharmaan2005/Leetcode-/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/singharmaan2005/Leetcode-/tree/master/0383-ransom-note) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/singharmaan2005/Leetcode-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/singharmaan2005/Leetcode-/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
 ## String
@@ -116,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singharmaan2005/Leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
