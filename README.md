@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/singharmaan2005/Leetcode-/tree/master/0342-power-of-four) |
 | [2469-convert-the-temperature](https://github.com/singharmaan2005/Leetcode-/tree/master/2469-convert-the-temperature) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/singharmaan2005/Leetcode-/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/singharmaan2005/Leetcode-/tree/master/0796-rotate-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/singharmaan2005/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singharmaan2005/Leetcode-/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
