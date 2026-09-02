@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/singharmaan2005/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/singharmaan2005/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/singharmaan2005/Leetcode-/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/singharmaan2005/Leetcode-/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/singharmaan2005/Leetcode-/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/singharmaan2005/Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/singharmaan2005/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
